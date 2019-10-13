@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
       L1=findViewById(R.id.ye1);
        L2=findViewById(R.id.ye2);
         Intent j=getIntent();
+        ;
 
 //change color to red
 
